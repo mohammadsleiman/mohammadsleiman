@@ -12,6 +12,8 @@ I'm a software developer who has recently graduated from San Jose State Universi
 
 - [**Netvyne**](https://www.netvyne.com/), a startup I co-founded to bring a comment section to every url on the internet. Built using HTML/CSS/JS, Flask, and PostgreSQL, this chrome extension injects a feature-rich, moderated comment section right into the HTML of every webpage. Through the main web application, users can add friends, share content & thoughts, and discover content through a feed.
 
+- [**SCE**](https://sce.engr.sjsu.edu/), a San Jose State University club where I served as a software development team officer. My role included designing new Data Objects and revamping API's across the 10,000 line codebase to support them. I mainly worked with Node JS. It is currently used by over 300+ organization members.
+
 
 
 
