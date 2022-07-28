@@ -14,7 +14,7 @@ I'm a software developer who has recently graduated from San Jose State Universi
 
 - [**Foodify**](https://github.com/mohammadsleiman/Foodify.us), a web platform I developed and presented in a team of 4 as part of my Engineering College Thesis Project. Foodify is a web platform that connects home culinary enthusiasts with recipes tailored to their needs. My role included the complete setup and design of the backend server, API's, and database, as well as implementing the Search and Home Feed Related Pages. I was also the main UX Designer for all the pages across the web platform, for which I utilized Figma. We built this using the MERN Stack, Google Auth, Google FireBase, and MongoDB Atlas. As part of this prjoject we had regular team check-ins, weekly advisor meetings, and montly status reports.
 
-- [**SCE**](https://sce.engr.sjsu.edu/), a San Jose State University club where I served as a software development team officer. My role included designing new Data Objects and revamping API's across the 10,000 line codebase to support them. I mainly worked with Node JS. It is currently used by over 300+ organization members.
+- [**SCE**](https://sce.engr.sjsu.edu/), a San Jose State University Club associated with the College of Engineering where I served as a software development team officer. My role included designing new Data Objects and revamping API's across the 10,000 line codebase to support them. I mainly worked with Node JS. It is currently used by over 300+ organization members.
 
 
 
