@@ -16,6 +16,8 @@ I'm a software developer who has recently graduated from San Jose State Universi
 
 - [**SCE**](https://sce.engr.sjsu.edu/), a San Jose State University Club associated with the College of Engineering where I served as a software development team officer. My role included designing new Data Objects and revamping API's across the 10,000 line codebase to support them. I mainly worked with Node JS. It is currently used by over 300+ organization members.
 
+<footer>2022 Mohamamd Sleiman</footer>
+
 
 
 
