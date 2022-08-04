@@ -1,4 +1,4 @@
-### Hi I'm Mohammad 👋
+# Hi I'm Mohammad 👋
 
 ## About
 ### Software developer & recent college grad, passionate about building products that have a positive societal impact
