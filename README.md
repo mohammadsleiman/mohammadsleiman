@@ -1,7 +1,7 @@
 ### Hi I'm Mohammad 👋
 
 ## About
-###Software developer & recent college grad, passionate about building products that have a positive societal impact
+### Software developer & recent college grad, passionate about building products that have a positive societal impact
 
 I'm a software developer who has recently graduated from San Jose State University (B.S. Computer Science) '22 looking for a software engineer role. Ever since I was a kid, I have been extremely passionate about technology and how it could be used to solve the problems around me. Motivated by this goal, in college, I worked on a few projects/startups: Haven and Netvyne. Through my experiences, I have become further interested in applying my skillset at a larger scale, so I interned at SAP and UKG, where I worked on building end-to-end full-stack web applications. I am looking to pursue a career as a software engineer at a company where I can build and contribute to products which have long-lasting positive societal impact
 
