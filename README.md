@@ -8,6 +8,10 @@ I'm a software developer who has recently graduated from San Jose State Universi
 Currently living in San Jose 🏙️
 
 ## My Past Work
+
+- [**Beezwax**](https://www.beezwax.net/), Fall 2022 - Fall 2024 Building Full Stack Applications on various teams, from the internal Marketing/Sales Team, to clients of various sizes.
+
+
 - [**UKG**](https://www.ukg.com/), where I interned in the fall of 2021 for 15 weeks as a member of the Recruitment team, responsible for the public facing job listings features of the UKG PRO Product. I built features across the stack directly on their cloud-based product, using React, .Net, & MongoDB
 
 - [**SAP**](https://www.sap.com/products/hcm.html), where I interned in the summer of 2021 for 14 weeks as a member of the Payroll team within SAP SuccessFactors, responsible for handling global payroll as part of their cloud-based HR Product offering. I built an administrative web application used internally at SAP to manage data across their development and testing environments and automate data uploading. My application was built using React & Node JS, supports all 41 payroll regions, integrates with 10+ services within SAP's Cloud Software, speeds up engineer's workflow from 30 to 2 minutes, and is used today by over 100 engineers, managers, & product designers across various teams at SAP.
