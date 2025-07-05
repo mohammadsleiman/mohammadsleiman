@@ -1,16 +1,19 @@
 # Hi I'm Mohammad 👋
 
 ## About
-### Software developer & recent college grad, passionate about building products that have a positive societal impact
+### Software Engineer, passionate about building products that have a positive societal impact
 
-I'm a software developer who has recently graduated from San Jose State University (B.S. Computer Science) '22 looking for a software engineer role. Ever since I was a kid, I have been extremely passionate about technology and how it could be used to solve the problems around me. Motivated by this goal, in college, I worked on a few projects/startups: Haven and Netvyne. Through my experiences, I have become further interested in applying my skillset at a larger scale, so I interned at SAP and UKG, where I worked on building end-to-end full-stack web applications. I am looking to pursue a career as a software engineer at a company where I can build and contribute to products which have long-lasting positive societal impact
+I'm currently a Founding Engineer at Canvas AI. I graduated from San Jose State University (B.S. Computer Science) '22 and I've worked at various roles with teams and on projects of varying sizes and in different spaces, from building a Customer Engagement Tool to improve lead generation/conversion, to a Finance Operations Management systems to manage hundreds of thousands of transactions, and today building AI Agent driven tools to automate everday Pre/Post Sales Manager needs. I am looking to pursue a career as a software engineer at a company where I can drive feature development and contribute to products which have long-lasting impact
 
-Currently living in San Jose 🏙️
+Currently living in the SF Bay Area, California 🏙️
+
+## Current Work
+
+-[**Canvas AI**](https://www.canvas.inc/), Fall 2024 - I joined Canvas AI (YC F24) in San Francisco, CA as the Founding Engineer. I work on bringing AI Agents to automate work done in the SDR, Customer Success,and Account Manager space. I'm responsible for driving feature development, managing deployment environments, design, on-call product support/hotfixes, performance monitoring, database management, API integrations, session data & metrics, and more!
 
 ## My Past Work
 
-- [**Beezwax**](https://www.beezwax.net/), Fall 2022 - Fall 2024 Building Full Stack Applications on various teams, from the internal Marketing/Sales Team, to clients of various sizes.
-
+- [**Beezwax**](https://www.beezwax.net/), Fall 2022 - I joined Beezwax fall of 2022 as a frontend-focused Full-stack Developer where I worked on various teams and with clients of different sizes to build end-to-end products. Upon joining, I worked closely with the Beezwax C-suite and Marketing team to develop new features for the Customer Engagement Tool. My largest project was a ground-up rewrite of client JobElephant's Finance Operations Management System, where I developed over 15 screens & 100+ components for invoice management, search, payment-transaction reconciliation, invoice splitting, messaging, user management, ad campaign management, Intuit integration/syncing and more, as well as developing the entire UI Design System from scratch with 65+ custom and theme-consistent web elements to pixel-perfect standards
 
 - [**UKG**](https://www.ukg.com/), where I interned in the fall of 2021 for 15 weeks as a member of the Recruitment team, responsible for the public facing job listings features of the UKG PRO Product. I built features across the stack directly on their cloud-based product, using React, .Net, & MongoDB
 
