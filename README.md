@@ -3,15 +3,18 @@
 ## About
 ### Software Engineer, passionate about building products that have a positive societal impact
 
-I'm currently a Founding Engineer at Canvas AI. I graduated from San Jose State University (B.S. Computer Science) '22 and I've worked at various roles with teams and on projects of varying sizes and in different spaces, from building a Customer Engagement Tool to improve lead generation/conversion, to a Finance Operations Management systems to manage hundreds of thousands of transactions, and today building AI Agent driven tools to automate everday Pre/Post Sales Manager needs. I am looking to pursue a career as a software engineer at a company where I can drive feature development and contribute to products which have long-lasting impact
+I'm currently a Software Engineer at Primer . I graduated from San Jose State University (B.S. Computer Science) '22 and I've worked at various roles with teams and on projects of varying sizes and in different spaces, from building a Customer Engagement Tool to improve lead generation/conversion, to a Finance Operations Management systems to manage hundreds of thousands of transactions, and today building AI driven tools to solve problems in the education space. I am looking to pursue a career as a software engineer at a company where I can drive feature development and contribute to products which have long-lasting impact
 
 Currently living in the SF Bay Area, California 🏙️
 
 ## Current Work
 
-[**Canvas AI**](https://www.canvas.inc/), Fall 2024 - I joined Canvas AI (YC F24) in San Francisco, CA as the Founding Engineer. I work on bringing AI Agents to automate work done in the SDR, Customer Success,and Account Manager space. I'm responsible for driving feature development, managing deployment environments, design, on-call product support/hotfixes, performance monitoring, database management, API integrations, session data & metrics, and more!
+[**Primer**](http://primer.com/), Fall 2025 - I joined Primer (Backed by Founders Fund, Khosla Ventures) in San Francisco, CA as a Software Engineer. I work on a variety of AI driven tools that help automate the day-to-day operations of education spaces.
+
 
 ## My Past Work
+
+- [**Canvas AI**](https://www.canvas.inc/), Fall 2024 - I joined Canvas AI (YC F24) in San Francisco, CA as the Founding Engineer. I work on bringing AI Agents to automate work done in the SDR, Customer Success,and Account Manager space. I'm responsible for driving feature development, managing deployment environments, design, on-call product support/hotfixes, performance monitoring, database management, API integrations, session data & metrics, and more!
 
 - [**Beezwax**](https://www.beezwax.net/), Fall 2022 - I joined Beezwax as a frontend-focused Full-stack Developer where I worked on various teams and with clients of different sizes to build end-to-end products. Upon joining, I worked closely with the Beezwax C-suite and Marketing team to develop new features for the Customer Engagement Tool. My largest project was a ground-up rewrite of client JobElephant's Finance Operations Management System, where I developed over 15 screens & 100+ components for invoice management, search, payment-transaction reconciliation, invoice splitting, messaging, user management, ad campaign management, Intuit integration/syncing and more, as well as developing the entire UI Design System from scratch with 65+ custom and theme-consistent web elements to pixel-perfect standards.
 
