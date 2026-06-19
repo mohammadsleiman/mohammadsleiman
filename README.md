@@ -3,7 +3,7 @@
 ## About
 ### Software Engineer, passionate about building products that have a positive societal impact
 
-I'm currently a Software Engineer at Primer . I graduated from San Jose State University (B.S. Computer Science) '22 and I've worked at various roles with teams and on projects of varying sizes and in different spaces, from building a Customer Engagement Tool to improve lead generation/conversion, to a Finance Operations Management systems to manage hundreds of thousands of transactions, and today building AI driven tools to solve problems in the education space. I am looking to pursue a career as a software engineer at a company where I can drive feature development and contribute to products which have long-lasting impact
+I'm currently a Software Engineer at Primer . I graduated from San Jose State University (B.S. Computer Science) '23 and I've worked at various roles with teams and on projects of varying sizes and in different spaces, from building a Customer Engagement Tool to improve lead generation/conversion, to a Finance Operations Management systems to manage hundreds of thousands of transactions, and today building AI driven tools to solve problems in the education space. I am looking to pursue a career as a software engineer at a company where I can drive feature development and contribute to products which have long-lasting impact
 
 Currently living in the SF Bay Area, California 🏙️
 
